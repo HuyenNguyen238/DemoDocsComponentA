@@ -2,7 +2,7 @@
 :example-caption!:
 
 You can add the following inline styles to your content:
-
+HUYEN NGUYEN
 * Bold
 * Italic
 * Monospace
